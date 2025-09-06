@@ -28,15 +28,6 @@ focus:
   - Embedded / IoT Systems
 interests: [Robotics, Web Platforms, Realtime Systems, Applied ML]
 values: [Precision, Problem-Solving, Clean Architecture, Continuous Learning]
-palette:
-  russian_violet: "#10002b"
-  russian_violet_2: "#240046"
-  persian_indigo: "#3c096c"
-  tekhelet: "#5a189a"
-  french_violet: "#7b2cbf"
-  amethyst: "#9d4edd"
-  heliotrope: "#c77dff"
-  mauve: "#e0aaff"
 ```
 
 🔭 Currently: Building AI-powered robotics + real-time communication platforms  
