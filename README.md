@@ -3,7 +3,7 @@
 <!-- HEADER (Capsule Render wave with embedded name + subtitle - purple → light) -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=60&fontAlign=50&fontAlignY=38&text=Muthuselvan%20B&desc=Full-Stack%20Developer%20%7C%20&descAlign=50&descAlignY=60&color=gradient&customColorList=0,2,4,6,8,10,12,14&fontColor=FFFFFF&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=60&fontAlign=50&fontAlignY=38&text=Muthuselvan%20B&descAlign=50&descAlignY=60&color=gradient&customColorList=0,2,4,6,8,10,12,14&fontColor=FFFFFF&animation=fadeIn" 
     alt="Header Wave" 
     width="100%"/>
   
@@ -15,7 +15,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
 
-<img align="right" alt="Coding Illustration" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
 name: Muthuselvan B
@@ -38,24 +37,23 @@ values: [Precision, Problem-Solving, Clean Architecture, Continuous Learning]
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
 ### 🎯 Core Languages  
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,dart,matlab" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,matlab" alt="Languages" />
 
 ### ⚡ Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,tensorflow,pytorch,express" alt="Frameworks" />
 
 ### 🗄️ Databases & Data  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 
 ### 🛠️ Dev & Ops  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,linux" alt="DevOps" />
 
 ### 🔩 Hardware & Tooling  
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,figma" alt="Hardware" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware" />
 
 </div>
 
