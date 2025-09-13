@@ -3,7 +3,7 @@
 <!-- HEADER (Capsule Render wave with embedded name + subtitle - purple → light) -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=60&fontAlign=50&fontAlignY=38&text=Muthuselvan%20B&desc=Full-Stack%20Developer%20%7C%20r&descAlign=50&descAlignY=60&color=gradient&customColorList=0,2,4,6,8,10,12,14&fontColor=FFFFFF&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=60&fontAlign=50&fontAlignY=38&text=Muthuselvan%20B&desc=Full-Stack%20Developer%20%7C%20&descAlign=50&descAlignY=60&color=gradient&customColorList=0,2,4,6,8,10,12,14&fontColor=FFFFFF&animation=fadeIn" 
     alt="Header Wave" 
     width="100%"/>
   
