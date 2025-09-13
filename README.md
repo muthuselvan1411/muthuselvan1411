@@ -8,7 +8,7 @@
     width="100%"/>
   
   <!-- Typing subtitle lines -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2700&pause=900&color=9D4EDD&center=true&vCenter=true&width=880&lines=Electronics+%26+Computer+Engineering+Student;Full-Stack+Developer+%7C+AI%2FML+Engineer;Hardware+%26+Software+Integration+Specialist;Building+Tomorrow's+Technology+Today" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2700&pause=900&color=9D4EDD&center=true&vCenter=true&width=880&lines=Electronics+%26+Computer+Engineering+Student;Full-Stack+Developer;Hardware+%26+Software+Integration+Projects;Building+Tomorrow's+Technology+Today" alt="Typing Intro" />
 </div>
 
 ---
